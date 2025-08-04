@@ -1,0 +1,22 @@
+1 Como você define aprendizado de maquina?
+O aprendizado de maquina e uma área da inteligência artificial que se encontra no desenvolvimento 
+de algoritmos e modelos estatísticos que permitem aos computadores aprender a partir de dados, sem
+serem explicitamente programado para cada tarefa especifica.
+
+2 Você consegue apontar quatros tipos de problemas que se destacam?
+Classificação, regressão, Agrupamento, detecção de anomalias.
+
+3 O que um conjunto de treinamento rotulado? 
+Um conjunto de treinamento rotulado é um conjunto de dados utilizado no aprendizado supervisionado,
+um método em aprendizado de maquina. Cada exemplo no conjunto de treinamento inclui uma entrada
+ou varias entradas, como características ou atributos em uma saída correspondente, rotulagem serve como uma 
+a resposta ou resultado correto que o modelo de aprender a prever. 
+
+4 Quais são as tarefas supervisionada mais comum? 
+Classificação e Regressão 
+
+5 
+
+
+
+
