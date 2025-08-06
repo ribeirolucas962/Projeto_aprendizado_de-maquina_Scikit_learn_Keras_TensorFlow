@@ -39,8 +39,11 @@ pandas.pydata.org - Seu melhor amigo para organizar e analisar dados.
 scikit-learn.org - A caixa de ferramentas essencial para Machine Learning.
 
 www.tensorflow.org/keras.io - Onde a mágica do Deep Learning acontece.
+
 matplotlib.org & seaborn.pydata.org - Para transformar dados chatos em gráficos incríveis!
+
 Jupyter Notebook - Nosso playground interativo para codificar e aprender.
+
 Ambiente Amigo: conda ou venv (para manter tudo organizado!).
 
 ## Meus Aprendizados e Descobertas. Opcional, mas super legal!
