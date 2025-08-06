@@ -9,9 +9,10 @@ Minha principal bússola nessa aventura é o livro "Mão a Obra: Aprendizado de 
 
 Meu grande objetivo aqui é ir além da teoria: quero mergulhar fundo e resolver problemas reais utilizando as técnicas poderosas que o livro ensina. Estou seguindo cada passo do processo de ML, desde a busca e arrumação dos dados sim, a parte de coleta e pré-processamento pode ser uma arte!  até a construção, o treinamento e a análise minuciosa dos nossos modelos. É um projeto do it yourself no melhor sentido, e espero que você encontre algo útil ou inspirador por aqui!
 
-"" O Que Você Vai Encontrar Por Aqui?
 
+## O Que Você Vai Encontrar Por Aqui?
 Nesta jornada, estou explorando os principais algoritmos, técnicas e conceitos do livro. Prepare-se para ver implementações e análises sobre.
+
 
 ### Regressão Linear Simples/Múltipla
 Como construir e treinar modelos de regressão.
@@ -27,7 +28,8 @@ Técnicas para "domar" as redes (Dropout, Batch Normalization).
 Os segredos dos otimizadores e funções de perda.
 E muito mais... (Ex: Validação Cruzada, Pipelines inteligentes, Preparação de Dados, etc.)
 
-""" Ferramentas da Aventura
+
+## Ferramentas da Aventura
 Para essa exploração, estamos usando um kit de ferramentas Python superpoderoso.
 Linguagem do Coração: Python 3.11.0
 Bibliotecas Companheiras:
@@ -46,6 +48,7 @@ Jupyter Notebook - Nosso playground interativo para codificar e aprender.
 
 Ambiente Amigo: conda ou venv (para manter tudo organizado!).
 
+
 ## Meus Aprendizados e Descobertas. Opcional, mas super legal!
 Nesta seção, eu adoraria compartilhar:
 
@@ -54,9 +57,11 @@ Tabelas simples mostrando o desempenho dos modelos (como eles se saíram!).
 Os "Aha!" momentos ou os desafios que encontrei e como tentei superá-los.
 Alguns exemplos de previsões dos meus modelos.
 
+
 ## Quer Dar Uma Forcinha ou Sugerir Algo?
 Adoraria! Se tiver ideias, melhorias ou até mesmo quiser adicionar suas próprias implementações do livro, 
 sinta-se super à vontade para abrir uma issue ou enviar um pull request. Toda contribuição é bem-vinda!
+
 
 ## Licença
 Este projeto está sob a Licença MIT. Para os detalhes, dá uma olhada no arquivo LICENSE.
