@@ -15,7 +15,7 @@ a resposta ou resultado correto que o modelo de aprender a prever.
 4 Quais são as tarefas supervisionada mais comum? 
 Classificação e Regressão 
 
-5 
+
 
 
 
